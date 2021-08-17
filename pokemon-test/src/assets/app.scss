@@ -1,0 +1,17 @@
+@import './colors';
+@import './wrapper';
+@import './header';
+@import './main';
+@import './first-block';
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif , Arial, Helvetica;
+    font-size: 14px;
+    color: $black-gray;
+}
