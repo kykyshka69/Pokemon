@@ -1,0 +1,20 @@
+.scroll-mouse{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 670px;
+    left: calc((100% - 105px) / 2);
+    
+    &__block{
+
+        &--text{
+            margin-bottom: 8px;
+            font-weight: bold;
+            font-size: 10px;
+            line-height: 12px;
+            text-align: center;
+            text-transform: uppercase;
+        }
+    }
+}

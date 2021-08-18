@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from '../Image/Image'
 import dino from '../../image/dinoInFirstBlock.png'
+
 const FirstBlock = () => {
     return (
         <div className={'first-block first-block__content'}>
@@ -17,6 +18,7 @@ const FirstBlock = () => {
             <div className={'first-block__content_img'}>
             <Image src={dino} width={'359px'} height={'400px'} alt={'dino'}/>
             </div>
+           
         </div>
     )
 }

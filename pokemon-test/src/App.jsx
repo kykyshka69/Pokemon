@@ -4,10 +4,12 @@ import './assets/app.scss'
 import Main from './Components/Main/Main'
 const App = () => {
   return (
-    <div className={'wrapper'}>
+    <>
       <Header/>
+      <div className={'wrapper'}>
       <Main/>
     </div>
+    </>
   )
 }
 

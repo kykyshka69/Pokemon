@@ -1,0 +1,48 @@
+.card{
+
+    display: flex;
+    flex-direction: column;
+
+    &__block{
+
+        &>img{
+            margin: 45px 48px;
+        }
+        &__info {
+            display: flex;
+            flex-direction: column;
+            margin: 0 24px;
+
+            &_title{
+                margin: 0;
+                font-weight: bold;
+                font-size: 30px;
+                line-height: 35px;
+                }
+        
+                &__generation{
+                    margin: 8px 0 8px;
+                }
+        }
+        
+    }
+    &:hover{
+        cursor:  url('../image/cursor.png') 4 12, auto;
+        box-shadow: 2px 1px 12px rgba(123, 97, 255, 0.5);
+        transition: 1s;
+        img{
+            transition: 1s;
+            transform: scale(1.1);
+            
+        }
+        .card__block__info{
+            
+            button{
+            transition: 1s;
+            background-color: #7B61FF;
+            border: 1px solid #7B61FF;
+            cursor:  url('../image/cursor.png') 4 12, auto;
+            }
+        }
+    }
+}

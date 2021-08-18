@@ -4,8 +4,9 @@
     left: 0;
     display: flex;
     justify-content: space-between;
-    .first-block__content{
 
+    &__content{
+        margin-bottom: 236px;
     &_info{
     width: 640px;
     

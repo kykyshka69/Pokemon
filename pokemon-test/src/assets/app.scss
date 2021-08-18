@@ -1,14 +1,23 @@
 @import './colors';
 @import './wrapper';
 @import './header';
-@import './main';
 @import './first-block';
+@import './scroll';
+@import './title-block';
+@import './section-cards';
+@import './card';
+@import './skills-unit';
+@import './button';
+
 *,
 *::after,
 *::before {
     box-sizing: border-box;
 }
 
+ul{
+    padding: 0;
+}
 body {
     margin: 0 auto;
     font-family: 'Roboto', sans-serif , Arial, Helvetica;
