@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.607ddafd.chunk.css",
-    "main.js": "/static/js/main.74a56223.chunk.js",
-    "main.js.map": "/static/js/main.74a56223.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.181ddb16.js",
-    "runtime-main.js.map": "/static/js/runtime-main.181ddb16.js.map",
-    "static/js/2.0c52869a.chunk.js": "/static/js/2.0c52869a.chunk.js",
-    "static/js/2.0c52869a.chunk.js.map": "/static/js/2.0c52869a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.607ddafd.chunk.css.map": "/static/css/main.607ddafd.chunk.css.map",
-    "static/js/2.0c52869a.chunk.js.LICENSE.txt": "/static/js/2.0c52869a.chunk.js.LICENSE.txt",
-    "static/media/darkai.dc3f233a.png": "/static/media/darkai.dc3f233a.png",
-    "static/media/diggersby.bc73f880.png": "/static/media/diggersby.bc73f880.png",
-    "static/media/dinoInFirstBlock.99b71ba4.png": "/static/media/dinoInFirstBlock.99b71ba4.png",
-    "static/media/emboar.d439175e.png": "/static/media/emboar.d439175e.png"
+    "main.css": "/Pokemon/static/css/main.607ddafd.chunk.css",
+    "main.js": "/Pokemon/static/js/main.74a56223.chunk.js",
+    "main.js.map": "/Pokemon/static/js/main.74a56223.chunk.js.map",
+    "runtime-main.js": "/Pokemon/static/js/runtime-main.820701f9.js",
+    "runtime-main.js.map": "/Pokemon/static/js/runtime-main.820701f9.js.map",
+    "static/js/2.0c52869a.chunk.js": "/Pokemon/static/js/2.0c52869a.chunk.js",
+    "static/js/2.0c52869a.chunk.js.map": "/Pokemon/static/js/2.0c52869a.chunk.js.map",
+    "index.html": "/Pokemon/index.html",
+    "static/css/main.607ddafd.chunk.css.map": "/Pokemon/static/css/main.607ddafd.chunk.css.map",
+    "static/js/2.0c52869a.chunk.js.LICENSE.txt": "/Pokemon/static/js/2.0c52869a.chunk.js.LICENSE.txt",
+    "static/media/darkai.dc3f233a.png": "/Pokemon/static/media/darkai.dc3f233a.png",
+    "static/media/diggersby.bc73f880.png": "/Pokemon/static/media/diggersby.bc73f880.png",
+    "static/media/dinoInFirstBlock.99b71ba4.png": "/Pokemon/static/media/dinoInFirstBlock.99b71ba4.png",
+    "static/media/emboar.d439175e.png": "/Pokemon/static/media/emboar.d439175e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.181ddb16.js",
+    "static/js/runtime-main.820701f9.js",
     "static/js/2.0c52869a.chunk.js",
     "static/css/main.607ddafd.chunk.css",
     "static/js/main.74a56223.chunk.js"
